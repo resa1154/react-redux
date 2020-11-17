@@ -26,5 +26,14 @@
         "ownerEmail":"ngucek2@gmail.com",
         "ownerPhone":"081-234-342-211",
         "storeAddress":"Jl Jakarta"
+    },{
+        "id":4,
+        "no":4,
+        "status":"Reject",
+        "date":"17/11/2020",
+        "ownerName":"Ngucek Store",
+        "ownerEmail":"ngucekStore@gmail.com",
+        "ownerPhone":"081-234-342-211",
+        "storeAddress":"Jl Buah-Batu no 54"
     }]
 }
