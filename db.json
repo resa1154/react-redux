@@ -35,5 +35,26 @@
         "ownerEmail":"ngucekStore@gmail.com",
         "ownerPhone":"081-234-342-211",
         "storeAddress":"Jl Buah-Batu no 54"
-    }]
+    }],
+     "Mitra": [{
+        "id":1,
+        "no":1,
+        "nama":"Test",
+        "email":"ngucek@gmail.com",
+        "phoneNumber":"081233422",
+        "no_nik":"3200040002020",
+        "npwp":"322394304",
+        "status":"Request",
+        "companyName":"PT Abc",
+        "shopName":"Selaras laundry",
+        "shopEmail":"selaras@gmail.com",
+        "address":"Alamat saya",
+        "province":"Provinsi",
+        "District":"Kecamatan",
+        "subDisctrict":"Desa",
+        "city":"Kota",
+        "postal_code":"Kode",
+        "companySince":"Tahun Berdiri",
+        "date":"17/11/2020"
+      }]
 }
