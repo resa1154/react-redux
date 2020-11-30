@@ -96,5 +96,20 @@
         "postal_code":"Kode",
         "companySince":"Tahun Berdiri",
         "date":"17/11/2020"
-      }]
+      }],
+    "ServiceCategory":[{
+    "id":1,
+        "no":1,
+        "categoryname":"Laundry",
+        "headcategory":"Laundry",
+        "note":"Nyuci, Setrika",
+        "status":"verify"
+    },{
+    "id":2,
+        "no":2,
+        "categoryname":"Setrika",
+        "headcategory":"Setrika",
+        "note":"Setrika",
+        "status":"Request"
+    }]
 }
