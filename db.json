@@ -111,5 +111,15 @@
         "headcategory":"Setrika",
         "note":"Setrika",
         "status":"Request"
+    }],
+    "HeadCategory":[{
+     "id":1,
+     "category":"Layanan Kilat"
+    },{
+     "id":2,
+     "category":"Layanan Express"
+    },{
+     "id":3,
+     "category":"Layanan Biasa"
     }]
 }
