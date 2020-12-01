@@ -121,5 +121,26 @@
     },{
      "id":3,
      "category":"Layanan Biasa"
+    }],
+    "Services":[{
+    "id":1,
+     "no":1,
+     "categoryname":"Laundry",
+     "headcategory":"Layanan Kilat",
+     "description":"nyuci",
+     "note":"Setrika",
+     "status":"Request",
+     "price":"",
+     "partnercomission":""
+    },{
+    "id":2,
+     "no":2,
+     "categoryname":"Dry Cleaning",
+     "headcategory":"Layanan Biasa",
+     "description":"nyuci",
+     "note":"Nyuci Setrika",
+     "status":"",
+     "price":"",
+     "partnercomission":""
     }]
 }
