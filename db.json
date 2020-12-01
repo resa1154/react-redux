@@ -125,7 +125,7 @@
     "Services":[{
     "id":1,
      "no":1,
-     "categoryname":"Laundry",
+     "servicesname":"Laundry",
      "headcategory":"Layanan Kilat",
      "description":"nyuci",
      "note":"Setrika",
@@ -135,7 +135,7 @@
     },{
     "id":2,
      "no":2,
-     "categoryname":"Dry Cleaning",
+     "servicesname":"Dry Cleaning",
      "headcategory":"Layanan Biasa",
      "description":"nyuci",
      "note":"Nyuci Setrika",
