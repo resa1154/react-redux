@@ -142,5 +142,41 @@
      "status":"",
      "price":"",
      "partnercomission":""
-    }]
+    }],
+    "Drivers":[{
+    "id":1,
+       "no":1,
+        "name":"Ujang",
+        "email":"Ujang_driver@gmail.com",
+        "phoneNumber":"08122229384",
+        "address":"Jl Holis Regency",
+        "province":"Jawa Barat",
+        "district":"",
+        "subDistrict:"",
+        "city":"Bandung",
+        "postal_code":"50333",
+        "status":"Aktif",
+        "nopol":"D0345AA",
+        "username":"UjangNgucek",
+        "password":"1234",
+        "confirm_password":""
+    },{
+    "id":2,
+       "no":2,
+        "name":"Wahyuni",
+        "email":"Wahyuni@gmail.com",
+        "phoneNumber":"08122229384",
+        "address":"Jl Holis Regency",
+        "province":"Jawa Barat",
+        "district":"",
+        "subDistrict:"",
+        "city":"Bandung",
+        "postal_code":"50333",
+        "status":"Aktif",
+        "nopol":"D0345AA",
+        "username":"WahyuniNgucek",
+        "password":"1234",
+        "confirm_password":""
+    }
+              ]
 }
