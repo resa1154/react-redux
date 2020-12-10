@@ -1,41 +1,4 @@
 {
-    "MitraList": [{
-        "id":1,
-        "no":1,
-        "status":"Request",
-        "date":"17/11/2020",
-        "ownerName":"Ngucek",
-        "ownerEmail":"ngucek@gmail.com",
-        "ownerPhone":"081-234-342-211",
-        "storeAddress":"Jl Sudirman"
-      },{
-        "id":2,
-        "no":2,
-        "status":"Verified",
-        "date":"17/11/2020",
-        "ownerName":"Ngucek",
-        "ownerEmail":"ngucek2@gmail.com",
-        "ownerPhone":"081-234-342-211",
-        "storeAddress":"Jl Holis"
-      },{
-        "id":3,
-        "no":3,
-        "status":"Approved",
-        "date":"17/11/2020",
-        "ownerName":"Ngucek",
-        "ownerEmail":"ngucek2@gmail.com",
-        "ownerPhone":"081-234-342-211",
-        "storeAddress":"Jl Jakarta"
-    },{
-        "id":4,
-        "no":4,
-        "status":"Reject",
-        "date":"17/11/2020",
-        "ownerName":"Ngucek Store",
-        "ownerEmail":"ngucekStore@gmail.com",
-        "ownerPhone":"081-234-342-211",
-        "storeAddress":"Jl Buah-Batu no 54"
-    }],
      "Mitra": [{
         "id":1,
         "no":1,
