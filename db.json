@@ -152,7 +152,7 @@
         "subDistrict":"",
         "city":"Bandung",
         "postal_code":"50333",
-        "status":"NonAktif",
+        "status":"nonAktif",
         "nopol":"D0345AA",
         "username":"UdinDriver",
         "password":"1234",
