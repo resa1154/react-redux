@@ -140,6 +140,23 @@
         "username":"WahyuniNgucek",
         "password":"1234",
         "confirm_password":""
+    },{
+         "id":3,
+       "no":3,
+        "name":"Udin",
+        "email":"Udin@gmail.com",
+        "phoneNumber":"08122229004",
+        "address":"Jl Holis Regency",
+        "province":"Jawa Barat",
+        "district":"",
+        "subDistrict":"",
+        "city":"Bandung",
+        "postal_code":"50333",
+        "status":"NonAktif",
+        "nopol":"D0345AA",
+        "username":"UdinDriver",
+        "password":"1234",
+        "confirm_password":""
     }
               ]
 }
